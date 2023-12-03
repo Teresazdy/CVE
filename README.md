@@ -34,7 +34,8 @@ The execution process lacks any filtering, directly executing the SQL statements
 
 Therefore, it is possible to achieve arbitrary file upload using statements like select into outfile.
 
-Mitigation Measures: Set secure_file_priv for the MySQL database to null to prevent file uploads.
+## Mitigation Measures:
+Set secure_file_priv for the MySQL database to null to prevent file uploads.
 
 
 
