@@ -1,6 +1,9 @@
-# CVE
+# CVE2023-50162
 ## Vulnerability: SQL Statement Execution File Upload Remote Code Execution (RCE)
-
+### [NAME OF AFFECTED PRODUCT(S)]:EmpireCMS
+### [AFFECTED AND/OR FIXED VERSION(S)]: V7.5
+### [PROBLEM TYPE] SQL Statement Execution File Upload Remote Code Execution (RCE)
+## [DESCRIPTION]
 Accessing the backend:
 
 ![image](https://github.com/Teresazdy/CVE/assets/72858713/3d1f8193-9eb2-49af-b6a6-1dacc4c5ee64)
